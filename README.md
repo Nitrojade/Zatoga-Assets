@@ -10,7 +10,7 @@ All games will be hosted here due to the amount of files. It overloads GitHub so
 
 **Skidding this gets you no gain, so {    } off.**
 
-If you want to check out 3kh0's site, head to [https://zatoga.net](https://zatoga.net)
+If you want to check out Zatoga's main domain, head to [https://zatoga.net](https://zatoga.net)
 
 The main repo for the original 3kh0 website can be found at [https://github.com/Nitrojade/zatoga-games](https://github.com/Nitrojade/zatoga-games)
 
